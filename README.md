@@ -20,9 +20,11 @@ accurate used-car price predictions.
  - The following regression models will be compared:
 
 1. Linear Regression
-2. Polynomial Regression
-3. Decision Tree Regression
+2. Ridge
+3. Random Forest
 4. K-Nearest Neighbors Regression
+5. XGBoost
+6. HistGradientBoost
 
 ## Evaluation Metrics
  The models will be evaluated using:
